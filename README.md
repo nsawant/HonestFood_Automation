@@ -33,5 +33,5 @@ NOTE:
 
     Reference of the manual test cases and Automation scripts is mentioned in Project only for one TestCase (DeleteSearchString)   (Screenshot for the same has been attached)
 
-    Step level pre-requisite is only defined for first test cases (Create_Computer_Valid_01)
+    Step level pre-requisite is only defined for first test cases.
 
